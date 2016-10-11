@@ -132,7 +132,7 @@ Use \LaTeX to create the following expressions.
 
     ![equation1](eq1.png)
 
-$$P(B)=\sum_{j} P(B|A_j)P(A_j), \rightarrow \frac{P(A_i|B)=P(B|A_i)P(A_i)}{\sum_{j} (B|A_i)P(A_j)}$$
+$$P(B)=\sum_{j} P(B|A_j)P(A_j), \Rightarrow \frac{P(B|A_i)P(A_i)}{\sum_{j} (B|A_i)P(A_j)}$$
 
 2. Hint: `\zeta` (3 points)
 
